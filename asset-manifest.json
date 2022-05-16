@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quizzical-trivia/static/css/main.5142b104.css",
+    "main.js": "/quizzical-trivia/static/js/main.8fabd2cd.js",
+    "index.html": "/quizzical-trivia/index.html",
+    "static/media/blobBottom.svg": "/quizzical-trivia/static/media/blobBottom.00299fc95403c0ac4104.svg",
+    "static/media/blobTop.svg": "/quizzical-trivia/static/media/blobTop.b74b0c347775fcdb80cb.svg",
+    "main.5142b104.css.map": "/quizzical-trivia/static/css/main.5142b104.css.map",
+    "main.8fabd2cd.js.map": "/quizzical-trivia/static/js/main.8fabd2cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5142b104.css",
+    "static/js/main.8fabd2cd.js"
+  ]
+}
